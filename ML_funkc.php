@@ -1,9 +1,9 @@
 <?php
 /*
-* SIA IT Tilts
-* http://ittilts.lv
+* Toms Kovkājevs
+* http://eadrese.lv
 *
-* Labots 06.03.2011
+* Labots 20.05.2012
 *
 */
 /*
